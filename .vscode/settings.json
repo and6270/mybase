@@ -12,6 +12,9 @@
       "strings": false
     }
   },
+  "foam.openDailyNote.directory": "posts",
+  "foam.openDailyNote.titleFormat": "'Daily note, ' yyyy-mm-dd, dddd",
+  "foam.openDailyNote.filenameFormat": "yyyy-mm-dd-'daily-note'",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "files.exclude": {
