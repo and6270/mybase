@@ -10,21 +10,26 @@ Foam: Create New Note from Template
 
 `alt+d` создает ежедневную заметку
 
+`- [ ]` создает список с флажками
+
 `alt+с` пометить флажок как прочитанный или снять флаг
 
-`ctrl+b` сделать болдом
+`ctrl+b` **сделать** болдом
 
-`ctrl+i` италик
+`ctrl+i` *италик*
 
 `ctrl+alt+v` вставка картинок из буфера
 
 `alt+d` создает заметку с текущей датой в папке journal.
 
-## Создание ссылок
+`- [ ]` создает список
 
-1. copy the following text: [https://google.com](https://google.com)
-2. select me and paste
-3. [select me and paste](https://google.com)
+## Создание ссылок 
+
+1. copy the following text: [Гугл](https://google.com)
+2. `[Гугл](https://google.com)`
+
+[Начало](getting-started.md)   
 
 ## Tables
 
@@ -48,16 +53,18 @@ Search in your repo with `cmd+shift+f`: type "search" (go back to the file explo
 - `list`
 - `note`
 
-## Installation
+## Вставка нескольких картинок
 
-required `ruby => 2.6.0` (install `rvm`, `openssl` with `rvm pkg install openssl` and install required ruby with `rvm install ruby-<version> --with-openssl-dir=/usr/share/rvm/usr`, `gem update --system` and `bundle install`)
+Статьи затрат
 
-[install jekill](https://jekyllrb.com/docs/installation/)
+![](attachments/readme_карт1.png)
 
-## Use
+Главное меню
 
-`rvm use 2.6.0`
+![](attachments/readme_карт2.png)
 
-`make serve`
+СРМ
 
-`make build`
+![](attachments/readme_карт3.png)
+
+
