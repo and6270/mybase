@@ -54,17 +54,3 @@ Search in your repo with `cmd+shift+f`: type "search" (go back to the file explo
 - `note`
 
 ## Вставка нескольких картинок
-
-Статьи затрат
-
-![](attachments/readme_карт1.png)
-
-Главное меню
-
-![](attachments/readme_карт2.png)
-
-СРМ
-
-![](attachments/readme_карт3.png)
-
-
